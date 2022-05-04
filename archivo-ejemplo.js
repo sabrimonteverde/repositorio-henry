@@ -1,1 +1,0 @@
-'Hi, nuevo curso de programación'
